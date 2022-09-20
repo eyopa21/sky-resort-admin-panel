@@ -107,16 +107,11 @@
     TrashIcon,
     PencilAltIcon
   } from "@heroicons/vue/outline";
-  definePageMeta({
-    middleware: "navigation-guard"
-  })
+  
   import {
     ref
   } from "vue";
-  import {
-    MenuIcon,
-    XIcon
-  } from "@heroicons/vue/outline";
+ 
   const slider = ref(0);
   const images = ref([
     '../assets/img/1.png',
@@ -137,4 +132,28 @@
       slider.value = images.value.length;
     }
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  definePageMeta({
+    middleware: "navigation-guard"
+  })
 </script>
