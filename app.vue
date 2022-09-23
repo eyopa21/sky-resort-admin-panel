@@ -1,14 +1,17 @@
 <template>
-<div class="text-5xl">
-  hello world
+  <div class="text-5xl">
   
-
-
-</div>
+    
+    <NuxtLayout name="default" >
+      <NuxtPage :class="{'lg:pl-64 pt-16 ': $route.name !== 'auth-login'}"/>
+    </NuxtLayout>
   
-</template>
-
-<script setup>
-
-</script>
-
+  </div>
+    
+  </template>
+  
+  <script setup>
+  
+  </script>
+  
+  
