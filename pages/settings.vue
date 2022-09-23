@@ -47,7 +47,7 @@
                            class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-gradient-to-br from-pink-500 to-violet-500 rounded-lg shadow-md shadow-gray-300 hover:scale-[1.02] transition-transform">
 
                            <ArrowUpIcon class="mr-2 -ml-1 w-4 h-4" />
-                         Update
+                         Update 
                         </a>
                      </div>
                   </div>
