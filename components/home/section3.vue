@@ -128,7 +128,7 @@
                       <div class="flex items-center">
                         <img
                           class="mr-2 w-4 h-4 rounded-full"
-                          src="../../assets/img/1.png"
+                          src="/img/1.png"
                           alt="Neil image"
                         />
                         Neil Sims

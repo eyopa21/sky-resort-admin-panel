@@ -7,7 +7,7 @@
                  <div class="flex justify-between xl:block 2xl:flex align-center 2xl:space-x-4">
                     <div class="flex space-x-4 xl:mb-4 2xl:mb-0">
                        <div>
-                          <img class="w-6 h-6 rounded-full" src="../../assets/img/1.png"
+                          <img class="w-6 h-6 rounded-full" src="/img/1.png"
                              alt="Bonnie image" />
                        </div>
                        <div class="flex-1 min-w-0">

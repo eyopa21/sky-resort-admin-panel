@@ -14,7 +14,7 @@
                <div class="bg-white shadow-lg shadow-gray-200 rounded-2xl p-4 mb-6">
                   <div class="items-center sm:flex xl:block 2xl:flex sm:space-x-4 xl:space-x-0 2xl:space-x-4">
                      <img class="mb-4 w-28 h-28 rounded-lg sm:mb-0 xl:mb-4 2xl:mb-0 shadow-lg shadow-gray-300"
-                        src="../assets/img/1.png" alt="sky logo" />
+                        src="/img/1.png" alt="sky logo" />
                      <div>
                         <h3 class="mb-1 text-2xl font-bold text-gray-900">
                            Sky Resorts
@@ -35,7 +35,7 @@
                <div class="bg-white flex shadow-lg shadow-gray-200 rounded-2xl p-4 mb-6">
                   <div class="items-center sm:flex xl:block 2xl:flex sm:space-x-4 xl:space-x-0 2xl:space-x-4">
                      <img class="mb-4 w-28 h-28 rounded-lg sm:mb-0 xl:mb-4 2xl:mb-0 shadow-lg shadow-gray-300"
-                        src="../assets/img/1.png" alt="sky logo" />
+                        src="/img/1.png" alt="sky logo" />
                      <div>
                         <h3 class="mb-1 text-2xl font-bold text-gray-900">
                           Backgound image

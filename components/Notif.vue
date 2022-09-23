@@ -3,7 +3,7 @@
              <div class="flex-shrink-0">
                     <img
                       class="w-11 h-11 rounded-full"
-                      src="../assets/img/1.png"
+                      src="/img/1.png"
                       alt="Jese image"
                     />
                     <div

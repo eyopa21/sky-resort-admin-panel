@@ -3,8 +3,8 @@
         <div class="py-3 px-4 lg:px-6">
             <div class="flex justify-between items-center">
                 <div class="flex justify-start items-center">
-                    <a href="../../index.html" class="text-md font-semibold flex items-center lg:mr-1.5">
-                        <img src="../../assets/img/1.png" class="mr-2 h-6" alt="Winster Logo" />
+                    <a href="#" class="text-md font-semibold flex items-center lg:mr-1.5">
+                        <img src="/img/1.png" class="mr-2 h-6" alt="Winster Logo" />
                         <span class="self-center text-xl font-bold whitespace-nowrap">YoPress
                             <span class="hidden md:inline">Website Builder</span></span>
                     </a>

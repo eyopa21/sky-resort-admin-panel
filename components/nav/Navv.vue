@@ -31,7 +31,7 @@
               "
             >
               <img
-                src="../../assets/img/1.png"
+                src="/img/1.png"
                 class="mr-2 h-8"
                 alt="Creative Tim Logo"
               />
@@ -191,7 +191,7 @@
                 >
                   <img
                     class="w-8 h-8 rounded-full"
-                    src="../../assets/img/1.png"
+                    src="/img/1.png"
                     alt="user photo"
                   />
                 </button>

@@ -87,7 +87,7 @@
           <!-- Carousel Tabs -->
           <div class="flex items-center pt-2 justify-center ">
             <button v-for="i in 5" :key="i" class="px-1 opacity-50 hover:opacity-100 focus:opacity-100"><img class="w-full"
-                src="../assets/img/1.png" alt="" style="max-height: 40px;"></button>
+                src="/img/1.png" alt="" style="max-height: 40px;"></button>
             
           </div>
 
@@ -114,9 +114,9 @@
  
   const slider = ref(0);
   const images = ref([
-    '../assets/img/1.png',
-    '../assets/img/unity.jpg',
-    '../assets/img/eyoba.jpg'
+    '/img/1.png',
+    '/img/unity.jpg',
+    '/img/eyoba.jpg'
   ])
   const next = () => {
     console.log("next", slider.value)

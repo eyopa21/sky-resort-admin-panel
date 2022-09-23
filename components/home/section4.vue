@@ -38,7 +38,7 @@
               <div class="flex-shrink-0">
                 <img
                   class="w-8 h-8 rounded-full"
-                  src="../../assets/img/1.png"
+                  src="/img/1.png"
                   alt="Neil image"
                 />
               </div>
@@ -48,7 +48,7 @@
                 </p>
                 <p class="text-sm text-gray-500 truncate">
                   <a
-                    href="https://demos.creative-tim.com/cdn-cgi/l/email-protection"
+                    href="#"
                     class="__cf_email__"
                     data-cfemail="06636b676f6a46606a6971646f72632865696b"
                     >[email&#160;protected]</a

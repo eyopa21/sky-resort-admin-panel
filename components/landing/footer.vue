@@ -3,8 +3,8 @@
         <div class="container px-4 mx-auto lg:px-0">
             <div class="grid gap-12 md:grid-cols-6 md:gap-24">
                 <div class="col-span-2">
-                    <a href="../../index.html" class="flex items-center mb-4 font-semibold text-md">
-                        <img src="../../assets/img/1.png" class="mr-4 h-8" alt="Creative Tim Logo" />
+                    <a href="#" class="flex items-center mb-4 font-semibold text-md">
+                        <img src="/img/1.png" class="mr-4 h-8" alt="Creative Tim Logo" />
                         <span>Soft UI Flowbite PRO</span>
                     </a>
                     <p class="max-w-lg text-gray-500">

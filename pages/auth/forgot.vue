@@ -2,7 +2,7 @@
   <main class="bg-gray-50">
     <div class="flex flex-col justify-center items-center px-6 pt-8 mx-auto md:h-screen pt:mt-0">
       <NuxtLink class="flex justify-center items-center mb-8 text-2xl font-semibold lg:mb-10">
-        <img src="../../assets/img/1.png" class="mr-4 h-10" alt="Sky hotel logo" />
+        <img src="/img/1.png" class="mr-4 h-10" alt="Sky hotel logo" />
         <span class="self-center text-2xl font-bold whitespace-nowrap">SkyResort admin</span>
       </NuxtLink>
 
